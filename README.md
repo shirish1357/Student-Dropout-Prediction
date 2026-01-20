@@ -2,6 +2,17 @@
 
 A machine learning system to identify students at risk of dropping out, enabling proactive outreach and intervention.
 
+## Live Demo
+
+| Component | URL |
+|-----------|-----|
+| **Frontend** | [student-dropout-prediction-kappa.vercel.app](https://student-dropout-prediction-kappa.vercel.app/) |
+| **Backend API** | [student-dropout-api-production.up.railway.app](https://student-dropout-api-production.up.railway.app/) |
+
+**Deployment Architecture:**
+- **Frontend**: React/Vite → Vercel (auto-deploys on push to `main`)
+- **Backend**: FastAPI + ML Model → Railway
+
 ## Overview
 
 This system analyzes student enrollment, academic performance, and engagement data to predict dropout risk. Students flagged as high-risk (top 20%) can be prioritized for personalized support and intervention.
