@@ -42,7 +42,7 @@ wheels/
 
 # Project outputs
 outputs/
-models/*.joblib
+
 
 # Data (keep sample data, ignore real data)
 data/raw/
