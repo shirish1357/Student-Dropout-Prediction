@@ -1,0 +1,501 @@
+student_id,first_name,email,enrollment_date,program,enrollment_status,gpa,credits_attempted,credits_completed,failed_courses,attendance_rate,lms_logins_last_30d,assignments_submitted,assignments_total,late_submissions,advisor_meetings,financial_aid,dropped_out
+STU00001,Aria,student00001@university.edu,2024-03-14 22:05:01.602456,Business,part_time,3.43,95,86,1,91.3,29,18,21,2,5,False,False
+STU00002,Jack,student00002@university.edu,2025-10-18 22:05:01.602475,Business,full_time,3.09,49,41,2,85.7,26,27,32,5,5,True,False
+STU00003,Avery,student00003@university.edu,2024-03-21 22:05:01.602478,Engineering,full_time,1.87,35,22,5,54.8,2,13,27,6,1,False,True
+STU00004,Amelia,student00004@university.edu,2024-07-20 22:05:01.602480,Computer Science,full_time,2.98,65,56,2,83.8,27,25,28,4,4,True,False
+STU00005,Chloe,student00005@university.edu,2025-09-10 22:05:01.602482,Nursing,full_time,3.28,34,31,1,83.7,26,20,24,3,5,True,False
+STU00006,Mason,student00006@university.edu,2024-03-17 22:05:01.602484,Nursing,full_time,3.49,53,48,1,93.8,33,28,34,3,5,True,False
+STU00007,Abigail,student00007@university.edu,2025-08-19 22:05:01.602485,Business,full_time,1.67,78,48,5,57.3,9,12,23,7,1,False,True
+STU00008,Aria,student00008@university.edu,2024-06-03 22:05:01.602488,Computer Science,full_time,3.14,44,37,2,79.7,25,18,23,2,4,True,False
+STU00009,Evelyn,student00009@university.edu,2024-04-23 22:05:01.602490,Computer Science,full_time,3.83,32,28,0,92.3,30,28,32,1,5,True,False
+STU00010,Emily,student00010@university.edu,2024-08-14 22:05:01.602492,Computer Science,part_time,3.68,70,63,1,94.8,34,21,23,2,5,True,False
+STU00011,Mia,student00011@university.edu,2025-04-22 22:05:01.602494,Liberal Arts,full_time,3.23,87,76,1,88.9,30,22,25,0,5,False,False
+STU00012,Mia,student00012@university.edu,2025-03-18 22:05:01.602496,Liberal Arts,full_time,3.38,80,71,1,88.4,24,25,30,3,4,True,False
+STU00013,Daniel,student00013@university.edu,2025-06-09 22:05:01.602497,Business,part_time,3.31,68,58,0,83.2,32,20,23,1,4,True,False
+STU00014,Lillian,student00014@university.edu,2024-09-24 22:05:01.602499,Computer Science,full_time,3.04,62,58,1,83.2,33,23,26,0,4,False,False
+STU00015,Matthew,student00015@university.edu,2024-05-13 22:05:01.602501,Computer Science,full_time,3.59,34,31,1,90.1,35,24,26,1,4,True,False
+STU00016,David,student00016@university.edu,2025-04-12 22:05:01.602503,Nursing,part_time,3.69,64,60,1,91.4,29,20,24,2,5,False,False
+STU00017,Daniel,student00017@university.edu,2025-09-30 22:05:01.602504,Nursing,full_time,3.37,67,56,2,89.5,25,28,32,5,3,True,False
+STU00018,Olivia,student00018@university.edu,2025-07-14 22:05:01.602506,Business,full_time,3.36,85,73,1,84.4,26,20,24,3,5,True,False
+STU00019,Michael,student00019@university.edu,2024-02-28 22:05:01.602508,Computer Science,full_time,3.44,49,44,0,89.7,31,32,34,4,4,False,False
+STU00020,Lillian,student00020@university.edu,2024-10-06 22:05:01.602510,Business,full_time,3.23,59,50,2,85.1,27,24,29,3,3,True,False
+STU00021,Liam,student00021@university.edu,2025-09-20 22:05:01.602512,Nursing,full_time,3.28,27,24,1,86.7,27,23,27,6,4,False,False
+STU00022,Daniel,student00022@university.edu,2024-01-18 22:05:01.602513,Nursing,full_time,3.28,49,45,1,87.3,28,22,26,2,5,True,False
+STU00023,Carter,student00023@university.edu,2025-03-05 22:05:01.602515,Liberal Arts,full_time,3.2,45,40,2,81.2,20,24,33,4,3,True,False
+STU00024,Jackson,student00024@university.edu,2025-05-09 22:05:01.602517,Business,full_time,2.23,75,51,4,71.4,17,16,26,5,2,True,True
+STU00025,Samuel,student00025@university.edu,2025-10-07 22:05:01.602518,Business,full_time,3.34,65,49,2,88.5,23,20,25,3,4,True,False
+STU00026,Liam,student00026@university.edu,2025-10-29 22:05:01.602520,Computer Science,full_time,2.11,47,31,4,65.4,13,15,26,6,1,True,False
+STU00027,Abigail,student00027@university.edu,2025-09-12 22:05:01.602522,Computer Science,part_time,3.92,66,62,1,99.0,32,25,26,1,6,True,False
+STU00028,Madison,student00028@university.edu,2024-09-18 22:05:01.602524,Liberal Arts,full_time,3.37,52,50,0,95.7,32,27,29,1,4,True,False
+STU00029,James,student00029@university.edu,2025-05-25 22:05:01.602525,Engineering,part_time,1.88,51,33,5,65.1,10,18,33,8,1,False,True
+STU00030,Michael,student00030@university.edu,2025-05-11 22:05:01.602527,Engineering,full_time,3.68,66,62,1,93.5,31,20,21,0,6,False,False
+STU00031,Carter,student00031@university.edu,2024-08-28 22:05:01.602529,Engineering,full_time,3.3,31,30,1,91.9,31,31,33,1,4,True,False
+STU00032,Elizabeth,student00032@university.edu,2024-10-09 22:05:01.602531,Business,full_time,3.03,45,39,1,88.1,31,25,29,2,5,True,False
+STU00033,Riley,student00033@university.edu,2025-01-08 22:05:01.602532,Business,full_time,2.95,55,47,1,86.4,29,18,21,3,4,False,False
+STU00034,Sofia,student00034@university.edu,2024-06-12 22:05:01.602534,Nursing,full_time,2.17,52,34,4,65.7,1,22,33,9,1,True,True
+STU00035,Joseph,student00035@university.edu,2024-04-12 22:05:01.602536,Business,full_time,1.71,42,25,5,57.1,3,13,29,7,1,False,True
+STU00036,Logan,student00036@university.edu,2025-03-01 22:05:01.602537,Business,full_time,2.87,94,79,3,84.0,20,19,26,4,4,True,False
+STU00037,Lucas,student00037@university.edu,2025-04-05 22:05:01.602539,Business,full_time,2.58,59,44,3,75.8,22,23,33,6,3,False,False
+STU00038,Amelia,student00038@university.edu,2024-12-23 22:05:01.602541,Liberal Arts,full_time,3.49,48,43,1,89.3,28,28,29,0,5,True,False
+STU00039,Penelope,student00039@university.edu,2025-11-22 22:05:01.602542,Business,full_time,1.65,24,13,6,55.4,6,12,26,7,1,False,True
+STU00040,Layla,student00040@university.edu,2024-07-11 22:05:01.602544,Computer Science,full_time,3.77,39,36,1,99.7,35,23,26,2,5,True,False
+STU00041,Carter,student00041@university.edu,2025-09-06 22:05:01.602546,Computer Science,full_time,3.56,59,56,1,93.7,29,21,24,2,5,True,False
+STU00042,Jack,student00042@university.edu,2025-06-18 22:05:01.602548,Nursing,full_time,3.0,63,52,2,87.1,24,16,20,4,3,False,True
+STU00043,Olivia,student00043@university.edu,2025-05-06 22:05:01.602549,Liberal Arts,full_time,3.68,47,43,1,92.5,33,30,33,2,5,False,False
+STU00044,Victoria,student00044@university.edu,2024-02-25 22:05:01.602551,Computer Science,full_time,1.92,46,31,5,57.9,13,11,21,5,1,False,True
+STU00045,Layla,student00045@university.edu,2024-09-29 22:05:01.602553,Liberal Arts,part_time,3.22,75,68,1,88.7,28,29,32,3,5,True,False
+STU00046,Sophia,student00046@university.edu,2024-04-16 22:05:01.602554,Liberal Arts,full_time,2.25,15,10,5,62.3,14,16,28,8,2,False,True
+STU00047,Abigail,student00047@university.edu,2025-01-24 22:05:01.602556,Nursing,full_time,3.47,47,42,1,90.9,31,26,27,0,5,True,False
+STU00048,Isabella,student00048@university.edu,2024-07-17 22:05:01.602558,Liberal Arts,full_time,3.53,90,83,1,90.7,27,24,27,1,3,False,False
+STU00049,Aria,student00049@university.edu,2025-11-29 22:05:01.602560,Business,part_time,2.96,71,61,3,80.8,23,22,29,5,4,True,False
+STU00050,Henry,student00050@university.edu,2025-01-13 22:05:01.602561,Liberal Arts,full_time,2.11,40,28,5,67.8,0,11,20,4,2,True,True
+STU00051,Noah,student00051@university.edu,2025-04-01 22:05:01.602563,Nursing,part_time,3.13,30,25,1,84.7,30,21,25,0,5,True,False
+STU00052,Elizabeth,student00052@university.edu,2024-08-05 22:05:01.602565,Nursing,full_time,3.68,54,48,1,88.0,36,30,34,1,5,True,False
+STU00053,Benjamin,student00053@university.edu,2025-07-08 22:05:01.602566,Nursing,full_time,3.36,79,71,1,92.6,32,30,34,2,5,True,False
+STU00054,John,student00054@university.edu,2024-08-27 22:05:01.602568,Computer Science,part_time,2.85,85,69,3,77.3,20,20,28,5,2,True,True
+STU00055,Isabella,student00055@university.edu,2024-02-20 22:05:01.602570,Business,full_time,2.86,87,67,2,79.3,24,24,34,6,3,True,True
+STU00056,Jacob,student00056@university.edu,2024-01-25 22:05:01.602571,Computer Science,full_time,2.14,58,37,4,68.6,11,15,27,8,2,False,False
+STU00057,Lillian,student00057@university.edu,2024-02-09 22:05:01.602573,Engineering,part_time,3.6,60,53,1,90.2,30,20,22,1,5,False,False
+STU00058,Liam,student00058@university.edu,2024-11-30 22:05:01.602575,Business,part_time,3.49,41,36,1,89.4,30,21,23,2,4,False,False
+STU00059,Alexander,student00059@university.edu,2024-06-18 22:05:01.602577,Liberal Arts,full_time,3.61,67,61,0,92.4,33,33,34,0,6,True,False
+STU00060,Logan,student00060@university.edu,2024-01-24 22:05:01.602578,Nursing,full_time,3.19,39,35,1,79.7,24,18,22,2,4,True,False
+STU00061,Penelope,student00061@university.edu,2024-10-14 22:05:01.602580,Engineering,part_time,3.75,59,55,0,96.1,32,23,25,1,6,True,False
+STU00062,Sophia,student00062@university.edu,2024-04-11 22:05:01.602582,Business,full_time,2.95,56,46,2,77.6,22,25,33,4,4,True,False
+STU00063,Carter,student00063@university.edu,2025-03-22 22:05:01.602583,Computer Science,part_time,3.42,32,29,1,88.0,32,24,28,1,5,True,False
+STU00064,Mason,student00064@university.edu,2024-05-17 22:05:01.602585,Nursing,full_time,2.45,59,42,4,65.8,12,22,34,9,3,False,False
+STU00065,Penelope,student00065@university.edu,2024-10-24 22:05:01.602587,Computer Science,full_time,3.67,47,44,0,96.7,31,27,27,0,5,True,False
+STU00066,Scarlett,student00066@university.edu,2025-06-30 22:05:01.602589,Business,part_time,3.51,99,88,1,82.9,26,27,34,4,5,True,False
+STU00067,Benjamin,student00067@university.edu,2025-11-02 22:05:01.602590,Business,full_time,2.35,46,31,5,64.5,4,19,34,9,2,False,True
+STU00068,Harper,student00068@university.edu,2024-06-07 22:05:01.602592,Engineering,full_time,3.37,79,69,2,88.2,28,28,32,7,4,True,False
+STU00069,Matthew,student00069@university.edu,2025-03-05 22:05:01.602594,Liberal Arts,full_time,3.16,58,52,1,89.9,30,26,29,2,4,False,False
+STU00070,John,student00070@university.edu,2024-11-13 22:05:01.602595,Computer Science,full_time,1.91,51,30,5,56.4,1,12,23,7,1,False,True
+STU00071,David,student00071@university.edu,2025-12-03 22:05:01.602597,Engineering,full_time,3.57,24,23,0,94.8,33,33,34,0,5,True,False
+STU00072,Noah,student00072@university.edu,2024-04-17 22:05:01.602599,Nursing,part_time,3.15,22,19,1,87.7,29,17,21,2,5,True,False
+STU00073,Liam,student00073@university.edu,2025-02-16 22:05:01.602601,Liberal Arts,full_time,3.66,70,67,0,100.0,33,29,32,0,6,False,False
+STU00074,Ethan,student00074@university.edu,2025-04-06 22:05:01.602602,Engineering,full_time,1.79,47,28,6,60.4,0,14,27,6,2,True,True
+STU00075,Joseph,student00075@university.edu,2024-08-03 22:05:01.602604,Computer Science,part_time,3.07,71,63,2,84.9,22,21,27,5,5,False,True
+STU00076,Noah,student00076@university.edu,2025-11-10 22:05:01.602606,Business,full_time,3.79,71,65,1,94.7,33,30,33,1,5,True,False
+STU00077,Avery,student00077@university.edu,2025-09-16 22:05:01.602607,Nursing,full_time,2.39,84,58,4,62.6,10,21,31,6,2,False,True
+STU00078,Henry,student00078@university.edu,2024-04-19 22:05:01.602609,Computer Science,full_time,3.11,45,34,3,73.7,23,21,30,4,2,True,False
+STU00079,Jacob,student00079@university.edu,2024-04-22 22:05:01.602613,Liberal Arts,part_time,2.76,70,62,2,81.3,23,19,25,4,4,True,False
+STU00080,Carter,student00080@university.edu,2024-10-23 22:05:01.602615,Liberal Arts,full_time,3.44,71,65,1,94.8,31,30,33,0,4,True,False
+STU00081,Aiden,student00081@university.edu,2025-08-22 22:05:01.602617,Business,full_time,2.63,93,72,2,82.7,22,20,27,6,3,False,True
+STU00082,William,student00082@university.edu,2024-04-07 22:05:01.602618,Business,full_time,3.75,78,73,1,91.7,30,25,28,1,5,True,False
+STU00083,Matthew,student00083@university.edu,2025-06-02 22:05:01.602620,Nursing,full_time,3.1,85,71,2,84.5,24,26,32,4,3,True,False
+STU00084,Benjamin,student00084@university.edu,2024-08-01 22:05:01.602622,Nursing,full_time,3.42,59,53,1,92.0,29,18,20,1,4,True,False
+STU00085,Ella,student00085@university.edu,2024-03-29 22:05:01.602623,Business,full_time,2.28,50,37,5,64.9,11,18,28,8,3,False,True
+STU00086,Wyatt,student00086@university.edu,2024-08-09 22:05:01.602625,Business,full_time,1.9,57,38,5,68.6,0,12,21,4,2,False,True
+STU00087,Amelia,student00087@university.edu,2025-10-01 22:05:01.602627,Liberal Arts,part_time,3.57,70,67,0,91.1,31,33,33,1,6,True,False
+STU00088,Mason,student00088@university.edu,2024-10-28 22:05:01.602628,Business,full_time,3.08,54,43,2,82.3,25,26,32,4,4,False,False
+STU00089,Benjamin,student00089@university.edu,2024-12-04 22:05:01.602630,Engineering,full_time,3.41,100,97,0,93.7,31,17,20,1,5,True,False
+STU00090,Emily,student00090@university.edu,2024-10-21 22:05:01.602632,Computer Science,full_time,1.69,52,36,5,63.7,0,13,27,6,1,True,True
+STU00091,David,student00091@university.edu,2025-03-13 22:05:01.602634,Business,full_time,3.22,82,75,1,89.0,30,24,27,3,5,True,False
+STU00092,Abigail,student00092@university.edu,2024-02-08 22:05:01.602635,Nursing,full_time,3.21,52,46,2,89.5,26,26,30,4,4,True,False
+STU00093,Lucas,student00093@university.edu,2024-11-16 22:05:01.602637,Engineering,full_time,2.92,71,57,2,78.6,18,17,23,3,4,False,True
+STU00094,Camila,student00094@university.edu,2024-09-14 22:05:01.602639,Nursing,full_time,3.4,18,16,1,87.6,31,23,27,2,5,False,False
+STU00095,Henry,student00095@university.edu,2025-06-06 22:05:01.602641,Engineering,full_time,3.26,42,36,0,85.9,32,22,26,2,4,True,False
+STU00096,Penelope,student00096@university.edu,2024-01-26 22:05:01.602642,Business,full_time,3.11,79,62,2,76.6,24,24,32,5,3,False,True
+STU00097,Lillian,student00097@university.edu,2025-09-07 22:05:01.602644,Computer Science,full_time,3.34,34,29,1,87.6,25,19,21,1,4,False,False
+STU00098,Daniel,student00098@university.edu,2024-06-15 22:05:01.602646,Nursing,full_time,3.45,86,79,1,91.2,29,21,24,1,6,False,False
+STU00099,Jacob,student00099@university.edu,2025-09-10 22:05:01.602647,Engineering,full_time,3.05,63,51,1,83.8,25,27,33,3,4,True,False
+STU00100,Elizabeth,student00100@university.edu,2024-02-20 22:05:01.602649,Liberal Arts,full_time,3.62,67,59,1,90.2,30,24,29,0,5,False,False
+STU00101,Camila,student00101@university.edu,2024-02-21 22:05:01.602651,Business,full_time,2.8,89,71,3,82.4,20,18,23,4,3,False,False
+STU00102,Grace,student00102@university.edu,2025-06-08 22:05:01.602652,Computer Science,full_time,3.06,46,40,2,81.1,24,18,22,4,4,False,False
+STU00103,Avery,student00103@university.edu,2025-11-08 22:05:01.602654,Business,part_time,3.67,74,67,1,99.1,28,17,20,1,4,True,False
+STU00104,Amelia,student00104@university.edu,2024-12-11 22:05:01.602656,Liberal Arts,full_time,2.9,89,74,2,81.0,22,18,24,3,3,True,False
+STU00105,Camila,student00105@university.edu,2024-01-20 22:05:01.602657,Computer Science,full_time,3.07,67,58,2,81.8,21,23,29,4,4,True,False
+STU00106,Emma,student00106@university.edu,2024-07-08 22:05:01.602659,Liberal Arts,full_time,2.93,84,70,1,85.5,28,22,27,4,4,True,False
+STU00107,Elizabeth,student00107@university.edu,2025-03-11 22:05:01.602661,Business,full_time,3.13,74,64,2,79.2,22,22,31,4,4,False,True
+STU00108,Sophia,student00108@university.edu,2025-05-12 22:05:01.602663,Engineering,full_time,2.18,87,58,4,64.6,0,16,28,5,2,False,True
+STU00109,Isabella,student00109@university.edu,2025-03-17 22:05:01.602664,Business,part_time,3.43,68,60,1,82.4,30,23,26,5,5,True,False
+STU00110,Daniel,student00110@university.edu,2025-10-14 22:05:01.602666,Business,full_time,3.49,94,85,1,94.8,31,27,31,2,4,False,False
+STU00111,Emma,student00111@university.edu,2024-04-28 22:05:01.602668,Business,part_time,3.39,90,82,1,83.0,33,27,30,0,5,True,False
+STU00112,Carter,student00112@university.edu,2025-01-07 22:05:01.602670,Nursing,part_time,3.69,71,65,1,93.2,27,19,20,1,5,True,False
+STU00113,Mason,student00113@university.edu,2024-11-13 22:05:01.602671,Liberal Arts,full_time,3.25,38,32,2,82.7,25,16,20,2,5,True,False
+STU00114,Daniel,student00114@university.edu,2024-01-16 22:05:01.602673,Liberal Arts,full_time,2.52,39,29,3,73.6,20,22,34,4,2,True,False
+STU00115,Mia,student00115@university.edu,2025-11-26 22:05:01.602674,Liberal Arts,full_time,2.47,79,55,4,65.1,15,12,20,5,3,False,False
+STU00116,Layla,student00116@university.edu,2025-06-21 22:05:01.602676,Nursing,full_time,2.88,60,50,2,89.3,22,17,21,4,4,False,False
+STU00117,Harper,student00117@university.edu,2024-04-12 22:05:01.602678,Engineering,part_time,3.86,25,24,1,93.1,34,18,20,0,5,True,False
+STU00118,Mason,student00118@university.edu,2024-11-14 22:05:01.602680,Business,full_time,2.72,51,37,3,74.1,16,16,23,4,2,False,True
+STU00119,Scarlett,student00119@university.edu,2024-09-26 22:05:01.602681,Engineering,part_time,2.85,66,55,2,85.5,20,21,29,4,3,True,False
+STU00120,Scarlett,student00120@university.edu,2025-04-26 22:05:01.602683,Nursing,full_time,3.62,22,21,1,87.6,31,26,28,1,5,True,False
+STU00121,Madison,student00121@university.edu,2025-09-30 22:05:01.602685,Liberal Arts,part_time,3.05,88,78,2,81.5,26,23,31,3,4,True,False
+STU00122,Ava,student00122@university.edu,2025-03-25 22:05:01.602686,Business,part_time,3.31,92,86,1,93.0,25,19,23,1,5,True,False
+STU00123,Joseph,student00123@university.edu,2024-09-16 22:05:01.602688,Computer Science,full_time,3.57,31,28,1,83.7,29,28,32,7,5,True,False
+STU00124,Aria,student00124@university.edu,2024-11-26 22:05:01.602690,Computer Science,full_time,3.08,62,56,2,90.3,28,19,23,2,4,False,False
+STU00125,Grace,student00125@university.edu,2024-05-30 22:05:01.602691,Engineering,full_time,2.02,36,26,5,62.4,1,15,26,6,2,False,True
+STU00126,Logan,student00126@university.edu,2024-07-27 22:05:01.602693,Liberal Arts,part_time,2.11,30,19,5,58.7,0,18,33,9,1,True,True
+STU00127,Sophia,student00127@university.edu,2024-12-13 22:05:01.602695,Computer Science,part_time,3.09,50,43,2,84.7,22,24,30,5,3,False,False
+STU00128,Isabella,student00128@university.edu,2025-07-24 22:05:01.602697,Engineering,part_time,3.48,52,52,0,95.3,31,26,28,1,4,True,False
+STU00129,Mason,student00129@university.edu,2025-10-07 22:05:01.602698,Nursing,full_time,3.03,69,51,3,78.5,21,21,26,2,3,True,False
+STU00130,James,student00130@university.edu,2025-09-07 22:05:01.602701,Engineering,full_time,2.89,61,48,3,76.2,20,15,20,3,3,True,False
+STU00131,Aiden,student00131@university.edu,2024-11-14 22:05:01.602702,Engineering,part_time,3.36,31,29,1,91.3,31,17,20,2,4,True,False
+STU00132,Madison,student00132@university.edu,2025-11-20 22:05:01.602704,Engineering,full_time,2.28,51,36,4,65.7,2,12,23,5,2,False,True
+STU00133,Wyatt,student00133@university.edu,2024-09-02 22:05:01.602706,Business,part_time,1.58,47,32,6,57.8,6,12,23,5,0,False,True
+STU00134,Emily,student00134@university.edu,2024-08-18 22:05:01.602708,Engineering,full_time,2.79,51,42,2,79.2,23,16,20,4,4,True,False
+STU00135,Daniel,student00135@university.edu,2024-05-29 22:05:01.602709,Engineering,full_time,3.66,62,59,0,98.3,35,25,25,1,6,True,False
+STU00136,Victoria,student00136@university.edu,2025-07-17 22:05:01.602711,Business,full_time,3.14,83,69,1,83.1,27,24,29,4,4,True,False
+STU00137,Scarlett,student00137@university.edu,2025-07-24 22:05:01.602713,Business,full_time,3.78,38,36,0,90.6,34,19,21,1,4,True,False
+STU00138,Carter,student00138@university.edu,2024-05-25 22:05:01.602714,Nursing,full_time,2.63,54,45,3,76.2,21,22,30,8,3,False,False
+STU00139,David,student00139@university.edu,2025-11-06 22:05:01.602716,Liberal Arts,full_time,2.77,68,55,3,72.0,19,17,24,4,3,True,True
+STU00140,Michael,student00140@university.edu,2025-08-28 22:05:01.602718,Computer Science,full_time,3.64,83,78,1,91.4,35,24,27,1,5,False,False
+STU00141,Sofia,student00141@university.edu,2024-01-22 22:05:01.602719,Computer Science,full_time,3.24,48,43,2,87.9,30,29,34,6,5,True,False
+STU00142,Scarlett,student00142@university.edu,2025-11-03 22:05:01.602721,Engineering,full_time,3.04,43,36,2,88.4,30,19,22,3,5,True,False
+STU00143,Emma,student00143@university.edu,2025-06-12 22:05:01.602723,Nursing,full_time,3.58,54,49,1,91.0,30,24,28,0,5,True,False
+STU00144,Scarlett,student00144@university.edu,2024-11-12 22:05:01.602724,Engineering,part_time,2.08,55,36,6,59.6,0,13,26,6,1,False,True
+STU00145,Victoria,student00145@university.edu,2025-05-06 22:05:01.602726,Computer Science,full_time,2.92,88,76,3,80.0,21,22,28,6,3,True,False
+STU00146,Penelope,student00146@university.edu,2024-03-21 22:05:01.602728,Business,part_time,3.21,31,27,1,86.5,27,18,20,1,5,True,False
+STU00147,Benjamin,student00147@university.edu,2025-08-04 22:05:01.602729,Liberal Arts,full_time,2.77,42,35,2,81.7,28,18,24,3,4,True,False
+STU00148,Olivia,student00148@university.edu,2025-07-05 22:05:01.602731,Nursing,full_time,3.45,57,49,1,88.7,28,27,31,3,4,True,False
+STU00149,Emma,student00149@university.edu,2025-05-14 22:05:01.602733,Business,full_time,3.4,45,40,2,87.2,26,28,32,3,4,False,False
+STU00150,Ava,student00150@university.edu,2025-04-24 22:05:01.602734,Liberal Arts,full_time,3.2,53,45,2,86.4,27,18,22,3,3,True,False
+STU00151,Jacob,student00151@university.edu,2024-02-26 22:05:01.602736,Nursing,full_time,3.09,79,59,2,82.7,22,15,23,3,3,True,False
+STU00152,Benjamin,student00152@university.edu,2024-05-06 22:05:01.602738,Nursing,full_time,3.62,76,73,1,94.9,35,20,23,1,5,True,False
+STU00153,Aria,student00153@university.edu,2025-12-06 22:05:01.602740,Computer Science,full_time,3.03,50,42,2,78.2,24,24,30,5,4,True,False
+STU00154,Sofia,student00154@university.edu,2025-10-02 22:05:01.602741,Business,full_time,2.83,72,56,3,77.3,17,23,31,5,3,True,True
+STU00155,Isabella,student00155@university.edu,2024-08-10 22:05:01.602743,Nursing,full_time,1.73,68,43,6,56.3,1,14,26,7,1,False,True
+STU00156,Amelia,student00156@university.edu,2025-04-06 22:05:01.602745,Nursing,full_time,3.12,62,55,1,92.5,27,24,29,3,5,True,False
+STU00157,Amelia,student00157@university.edu,2025-04-29 22:05:01.602746,Liberal Arts,full_time,3.03,47,39,2,81.2,20,23,30,5,3,False,False
+STU00158,Jacob,student00158@university.edu,2024-07-14 22:05:01.602748,Computer Science,full_time,2.74,70,50,4,71.9,19,19,27,6,2,True,True
+STU00159,Joseph,student00159@university.edu,2025-06-24 22:05:01.602750,Engineering,full_time,3.1,47,42,1,89.2,30,25,30,2,5,False,False
+STU00160,Charlotte,student00160@university.edu,2024-03-02 22:05:01.602752,Computer Science,full_time,3.04,53,43,1,86.5,24,24,29,5,3,False,False
+STU00161,Layla,student00161@university.edu,2025-06-30 22:05:01.602753,Engineering,full_time,3.12,37,32,1,80.2,28,20,24,5,4,True,False
+STU00162,Sebastian,student00162@university.edu,2025-06-28 22:05:01.602755,Business,part_time,2.37,63,48,3,73.5,2,20,32,7,3,False,True
+STU00163,Aria,student00163@university.edu,2024-11-17 22:05:01.602757,Business,part_time,3.14,38,30,2,81.8,24,25,32,5,4,True,False
+STU00164,Riley,student00164@university.edu,2024-03-21 22:05:01.602758,Nursing,full_time,3.68,48,46,0,99.6,32,29,31,1,5,True,False
+STU00165,Jack,student00165@university.edu,2025-06-04 22:05:01.602760,Business,full_time,3.35,76,68,2,84.9,26,25,29,5,4,True,False
+STU00166,Sebastian,student00166@university.edu,2024-07-16 22:05:01.602762,Nursing,full_time,2.43,76,53,3,73.2,16,16,26,4,4,True,True
+STU00167,Noah,student00167@university.edu,2025-11-16 22:05:01.602763,Computer Science,full_time,3.5,45,43,0,95.1,30,20,22,1,6,True,False
+STU00168,Jackson,student00168@university.edu,2025-07-03 22:05:01.602765,Business,full_time,3.21,78,65,1,94.7,33,20,22,1,4,True,False
+STU00169,Victoria,student00169@university.edu,2024-10-19 22:05:01.602767,Computer Science,full_time,3.56,72,69,1,91.0,32,20,22,1,5,True,False
+STU00170,Emily,student00170@university.edu,2025-01-10 22:05:01.602768,Computer Science,full_time,2.87,75,64,2,85.2,27,23,31,5,4,False,False
+STU00171,Aria,student00171@university.edu,2024-03-07 22:05:01.602770,Business,full_time,3.42,64,58,1,87.0,29,21,23,1,5,True,False
+STU00172,Camila,student00172@university.edu,2024-08-06 22:05:01.602772,Computer Science,full_time,2.7,69,57,2,77.3,19,19,25,4,3,False,False
+STU00173,Amelia,student00173@university.edu,2024-12-15 22:05:01.602774,Business,full_time,3.47,23,22,1,88.3,33,31,34,0,5,False,True
+STU00174,Chloe,student00174@university.edu,2025-01-07 22:05:01.602775,Business,full_time,3.12,48,43,1,84.8,26,20,24,2,4,False,False
+STU00175,Avery,student00175@university.edu,2024-08-02 22:05:01.602777,Business,full_time,3.17,63,58,1,84.6,28,21,27,3,4,False,False
+STU00176,Matthew,student00176@university.edu,2024-02-27 22:05:01.602779,Engineering,full_time,3.53,64,54,1,90.9,31,29,33,2,4,False,False
+STU00177,Charlotte,student00177@university.edu,2024-07-22 22:05:01.602780,Computer Science,full_time,3.19,81,69,2,81.6,24,27,33,3,4,True,False
+STU00178,Sebastian,student00178@university.edu,2025-01-22 22:05:01.602782,Liberal Arts,full_time,3.23,36,29,2,81.8,26,23,31,7,3,True,False
+STU00179,Sophia,student00179@university.edu,2025-05-12 22:05:01.602784,Business,full_time,1.65,63,35,6,53.4,5,16,32,9,0,False,True
+STU00180,Layla,student00180@university.edu,2025-02-17 22:05:01.602786,Computer Science,full_time,3.46,45,38,1,93.4,27,22,24,2,5,True,False
+STU00181,Michael,student00181@university.edu,2025-08-05 22:05:01.602788,Nursing,part_time,3.62,39,36,1,90.8,30,25,30,4,5,False,False
+STU00182,Logan,student00182@university.edu,2025-10-06 22:05:01.602789,Business,full_time,2.47,81,65,3,76.2,20,22,31,6,3,False,False
+STU00183,Liam,student00183@university.edu,2025-04-07 22:05:01.602791,Business,part_time,3.47,57,53,1,87.0,34,20,24,3,5,False,False
+STU00184,Joseph,student00184@university.edu,2024-10-26 22:05:01.602792,Liberal Arts,full_time,2.96,47,38,3,80.2,18,24,33,8,4,True,False
+STU00185,Camila,student00185@university.edu,2024-09-26 22:05:01.602794,Engineering,full_time,3.48,67,61,1,97.8,31,27,29,0,4,True,False
+STU00186,Lillian,student00186@university.edu,2025-06-16 22:05:01.602796,Engineering,full_time,3.73,76,73,0,92.3,29,18,21,1,5,False,False
+STU00187,Ethan,student00187@university.edu,2025-07-01 22:05:01.602797,Business,full_time,2.21,64,43,5,57.5,8,17,31,10,0,False,True
+STU00188,Logan,student00188@university.edu,2025-09-15 22:05:01.602799,Computer Science,full_time,2.5,70,50,4,64.1,15,20,30,6,2,False,True
+STU00189,Logan,student00189@university.edu,2024-07-02 22:05:01.602800,Nursing,full_time,3.44,49,44,2,86.2,27,26,30,1,4,True,False
+STU00190,Carter,student00190@university.edu,2025-11-06 22:05:01.602802,Nursing,part_time,3.32,38,34,1,85.1,31,22,24,0,5,True,False
+STU00191,Carter,student00191@university.edu,2025-08-11 22:05:01.602804,Computer Science,part_time,3.6,31,29,1,87.9,29,29,34,4,4,True,False
+STU00192,Alexander,student00192@university.edu,2024-09-20 22:05:01.602805,Business,full_time,2.79,44,34,2,81.5,25,24,31,5,3,True,False
+STU00193,Jackson,student00193@university.edu,2025-06-25 22:05:01.602807,Nursing,full_time,3.73,44,42,1,95.4,32,25,26,0,6,True,False
+STU00194,Mia,student00194@university.edu,2024-03-02 22:05:01.602809,Engineering,full_time,3.6,92,83,1,99.3,34,20,21,1,6,False,False
+STU00195,Logan,student00195@university.edu,2025-05-09 22:05:01.602810,Computer Science,full_time,2.84,103,88,1,87.3,29,28,33,3,3,False,False
+STU00196,Elizabeth,student00196@university.edu,2024-03-17 22:05:01.602812,Liberal Arts,part_time,3.44,94,79,1,88.0,31,28,32,3,4,True,False
+STU00197,Aria,student00197@university.edu,2025-10-18 22:05:01.602813,Business,part_time,3.23,86,68,2,81.6,22,18,25,3,4,True,False
+STU00198,Madison,student00198@university.edu,2024-02-24 22:05:01.602815,Computer Science,part_time,3.4,71,65,0,90.4,32,24,26,1,5,False,False
+STU00199,Emma,student00199@university.edu,2024-08-26 22:05:01.602817,Nursing,full_time,2.91,76,62,2,75.4,22,17,24,5,3,True,False
+STU00200,Sofia,student00200@university.edu,2024-09-15 22:05:01.602818,Business,full_time,3.36,45,45,0,97.0,30,26,28,0,5,True,False
+STU00201,Jack,student00201@university.edu,2024-12-19 22:05:01.602820,Engineering,full_time,3.33,68,62,1,90.6,30,31,33,0,5,True,False
+STU00202,Charlotte,student00202@university.edu,2025-12-14 22:05:01.602821,Business,part_time,3.39,48,48,1,95.0,33,21,23,0,5,False,False
+STU00203,Grace,student00203@university.edu,2024-11-23 22:05:01.602823,Business,full_time,2.63,102,74,3,70.7,18,23,33,8,3,False,True
+STU00204,Olivia,student00204@university.edu,2025-01-01 22:05:01.602825,Engineering,full_time,3.08,81,63,2,81.5,26,26,33,5,4,True,False
+STU00205,Aria,student00205@university.edu,2025-06-08 22:05:01.602826,Engineering,full_time,3.62,71,64,1,90.6,31,28,32,0,5,True,False
+STU00206,Ethan,student00206@university.edu,2024-07-28 22:05:01.602828,Business,part_time,3.04,59,51,2,85.5,22,23,29,4,4,True,False
+STU00207,Mason,student00207@university.edu,2025-06-07 22:05:01.602830,Engineering,full_time,3.42,54,54,1,88.5,38,31,34,4,5,True,False
+STU00208,Sofia,student00208@university.edu,2024-07-25 22:05:01.602831,Computer Science,full_time,2.87,31,23,2,77.7,20,15,20,3,3,True,False
+STU00209,Isabella,student00209@university.edu,2024-12-11 22:05:01.602833,Engineering,part_time,3.36,47,44,1,97.9,32,28,33,0,6,False,False
+STU00210,Victoria,student00210@university.edu,2024-11-01 22:05:01.602834,Engineering,part_time,2.64,49,38,3,77.0,18,21,27,5,3,False,True
+STU00211,Madison,student00211@university.edu,2025-08-20 22:05:01.602836,Business,full_time,2.01,73,47,5,61.8,11,19,34,9,0,True,False
+STU00212,Layla,student00212@university.edu,2025-08-03 22:05:01.602838,Computer Science,full_time,3.48,72,65,0,93.8,31,24,27,0,6,True,False
+STU00213,Joseph,student00213@university.edu,2025-10-18 22:05:01.602839,Liberal Arts,part_time,3.22,44,39,2,85.3,20,21,26,4,5,True,False
+STU00214,Carter,student00214@university.edu,2024-06-07 22:05:01.602841,Liberal Arts,part_time,3.56,36,32,1,90.4,28,25,27,1,5,False,False
+STU00215,Daniel,student00215@university.edu,2024-01-30 22:05:01.602843,Nursing,full_time,4.0,44,44,0,98.1,34,20,21,0,6,False,False
+STU00216,Amelia,student00216@university.edu,2024-02-12 22:05:01.602844,Engineering,full_time,2.57,47,35,3,72.7,17,15,22,5,4,False,True
+STU00217,Sebastian,student00217@university.edu,2025-06-25 22:05:01.602846,Engineering,full_time,3.6,85,73,1,91.4,31,24,28,2,4,True,False
+STU00218,Sebastian,student00218@university.edu,2025-07-19 22:05:01.602847,Computer Science,part_time,3.53,38,37,1,94.7,32,18,20,0,5,False,False
+STU00219,Daniel,student00219@university.edu,2025-09-26 22:05:01.602849,Liberal Arts,full_time,3.61,64,57,1,95.1,33,25,27,0,6,True,False
+STU00220,Grace,student00220@university.edu,2025-05-16 22:05:01.602851,Nursing,full_time,3.8,66,58,1,88.6,32,25,27,0,6,True,False
+STU00221,Jack,student00221@university.edu,2025-05-26 22:05:01.602852,Computer Science,full_time,3.18,69,58,2,94.1,27,21,26,3,4,True,False
+STU00222,Riley,student00222@university.edu,2025-04-30 22:05:01.602854,Engineering,part_time,3.16,85,70,2,86.8,25,25,32,4,5,True,False
+STU00223,Riley,student00223@university.edu,2024-02-08 22:05:01.602855,Liberal Arts,full_time,3.64,29,27,1,88.0,28,28,33,1,5,True,False
+STU00224,Jack,student00224@university.edu,2025-05-02 22:05:01.602857,Nursing,full_time,2.06,46,30,4,63.9,13,16,30,7,2,True,True
+STU00225,James,student00225@university.edu,2024-02-25 22:05:01.602859,Business,full_time,2.14,71,47,5,55.4,1,12,24,6,2,False,True
+STU00226,Aria,student00226@university.edu,2024-07-01 22:05:01.602860,Liberal Arts,full_time,3.49,42,37,1,88.4,28,20,23,1,5,True,False
+STU00227,Liam,student00227@university.edu,2024-09-30 22:05:01.602862,Nursing,full_time,3.7,59,56,0,90.2,33,27,29,2,6,True,False
+STU00228,Olivia,student00228@university.edu,2024-11-08 22:05:01.602864,Computer Science,full_time,3.32,93,86,1,90.1,30,26,29,3,4,True,False
+STU00229,Riley,student00229@university.edu,2025-10-29 22:05:01.602865,Business,full_time,3.14,76,65,2,78.1,23,27,32,3,5,True,False
+STU00230,Victoria,student00230@university.edu,2025-04-26 22:05:01.602867,Nursing,part_time,2.72,74,57,3,78.4,23,25,34,8,4,True,False
+STU00231,Riley,student00231@university.edu,2025-02-13 22:05:01.602868,Nursing,full_time,3.28,83,71,1,88.0,24,25,29,4,5,False,False
+STU00232,Harper,student00232@university.edu,2024-07-07 22:05:01.602870,Engineering,full_time,3.69,76,72,0,93.6,31,31,33,2,5,True,False
+STU00233,Riley,student00233@university.edu,2025-07-25 22:05:01.602872,Liberal Arts,full_time,3.81,80,72,1,95.6,34,29,29,1,5,True,False
+STU00234,Liam,student00234@university.edu,2024-10-26 22:05:01.602873,Engineering,full_time,3.71,84,80,0,93.5,37,21,25,0,5,True,False
+STU00235,Liam,student00235@university.edu,2024-07-20 22:05:01.602875,Business,full_time,3.89,96,89,0,95.1,30,28,31,3,5,True,False
+STU00236,Logan,student00236@university.edu,2024-12-07 22:05:01.602876,Nursing,part_time,2.49,56,42,4,69.9,18,21,30,7,3,True,True
+STU00237,Emily,student00237@university.edu,2024-05-28 22:05:01.602878,Engineering,full_time,2.64,42,33,3,78.3,17,14,20,4,2,True,False
+STU00238,Victoria,student00238@university.edu,2025-03-31 22:05:01.602880,Liberal Arts,full_time,3.24,75,68,2,80.0,24,27,32,5,4,False,False
+STU00239,Sebastian,student00239@university.edu,2024-02-28 22:05:01.602881,Business,part_time,2.19,39,25,5,58.8,13,13,24,7,2,False,True
+STU00240,Madison,student00240@university.edu,2024-08-31 22:05:01.602883,Computer Science,full_time,3.46,75,65,1,84.5,28,29,33,3,4,False,False
+STU00241,Emma,student00241@university.edu,2025-12-03 22:05:01.602884,Engineering,part_time,1.79,79,48,6,57.1,3,11,23,5,1,False,True
+STU00242,Evelyn,student00242@university.edu,2025-01-19 22:05:01.602886,Business,full_time,2.04,52,34,5,62.7,4,13,23,5,2,True,True
+STU00243,Liam,student00243@university.edu,2024-12-22 22:05:01.602888,Computer Science,full_time,3.08,70,55,2,83.2,20,21,26,3,4,True,False
+STU00244,Lillian,student00244@university.edu,2024-11-02 22:05:01.602889,Engineering,full_time,3.13,78,67,2,86.2,25,24,28,2,4,True,False
+STU00245,Carter,student00245@university.edu,2024-02-16 22:05:01.602891,Business,full_time,3.66,66,59,1,83.7,31,24,27,0,5,False,False
+STU00246,Jacob,student00246@university.edu,2024-12-07 22:05:01.602893,Business,full_time,3.29,82,76,1,91.5,27,28,30,3,4,False,False
+STU00247,Sebastian,student00247@university.edu,2025-12-07 22:05:01.602894,Engineering,full_time,3.37,86,81,1,94.9,29,27,32,4,5,True,False
+STU00248,Ethan,student00248@university.edu,2025-08-15 22:05:01.602896,Business,full_time,3.16,39,33,2,92.8,29,27,33,7,4,True,False
+STU00249,Sebastian,student00249@university.edu,2025-01-01 22:05:01.602897,Nursing,part_time,3.19,21,16,1,85.2,26,25,31,2,5,True,False
+STU00250,Noah,student00250@university.edu,2024-02-08 22:05:01.602899,Engineering,full_time,2.58,55,37,4,68.7,18,18,27,6,3,True,True
+STU00251,Mia,student00251@university.edu,2025-09-16 22:05:01.602901,Business,part_time,2.3,89,61,5,66.9,2,14,24,6,2,False,True
+STU00252,Harper,student00252@university.edu,2024-03-07 22:05:01.602902,Computer Science,full_time,3.57,72,66,0,92.0,30,21,25,1,5,True,False
+STU00253,Samuel,student00253@university.edu,2024-01-17 22:05:01.602904,Computer Science,full_time,3.42,48,45,0,97.5,28,20,21,1,5,True,False
+STU00254,Daniel,student00254@university.edu,2025-02-02 22:05:01.602905,Nursing,part_time,3.75,50,47,0,94.5,34,30,32,0,6,False,False
+STU00255,Ava,student00255@university.edu,2025-06-20 22:05:01.602907,Engineering,full_time,3.63,86,85,0,94.0,35,28,30,2,5,True,False
+STU00256,Jack,student00256@university.edu,2024-06-23 22:05:01.602909,Business,part_time,1.74,51,27,5,57.8,5,18,33,9,1,True,True
+STU00257,Aiden,student00257@university.edu,2025-11-04 22:05:01.602910,Business,full_time,3.37,44,40,1,91.5,30,19,22,2,4,False,False
+STU00258,Ethan,student00258@university.edu,2024-07-31 22:05:01.602912,Computer Science,full_time,3.24,100,88,2,88.4,23,20,24,3,4,True,False
+STU00259,Michael,student00259@university.edu,2025-07-23 22:05:01.602913,Nursing,full_time,3.45,66,62,1,90.7,29,19,21,1,6,True,False
+STU00260,Mia,student00260@university.edu,2025-05-28 22:05:01.602915,Computer Science,full_time,3.51,43,40,1,94.6,30,19,22,2,5,False,False
+STU00261,Wyatt,student00261@university.edu,2024-09-10 22:05:01.602917,Computer Science,full_time,3.51,56,52,1,84.7,30,20,23,2,4,True,False
+STU00262,Lucas,student00262@university.edu,2024-06-05 22:05:01.602918,Nursing,full_time,1.6,65,37,6,49.8,7,13,25,7,0,True,True
+STU00263,Madison,student00263@university.edu,2024-06-16 22:05:01.602920,Engineering,full_time,3.23,81,70,2,92.6,24,20,24,2,4,True,False
+STU00264,Isabella,student00264@university.edu,2025-04-06 22:05:01.602922,Business,full_time,3.09,70,54,2,82.0,23,23,29,3,4,True,False
+STU00265,Ethan,student00265@university.edu,2024-11-20 22:05:01.602923,Engineering,full_time,3.24,58,52,1,93.5,28,21,23,2,5,False,False
+STU00266,Lucas,student00266@university.edu,2024-04-30 22:05:01.602925,Liberal Arts,full_time,2.44,46,31,4,67.0,13,18,32,8,0,True,True
+STU00267,Avery,student00267@university.edu,2025-04-03 22:05:01.602926,Liberal Arts,full_time,2.24,81,59,4,66.0,2,21,34,8,2,False,True
+STU00268,Olivia,student00268@university.edu,2024-09-21 22:05:01.602928,Liberal Arts,part_time,3.41,75,67,1,86.4,32,17,21,0,5,False,False
+STU00269,Alexander,student00269@university.edu,2025-12-05 22:05:01.602930,Nursing,part_time,2.58,63,44,4,71.4,17,21,31,6,2,True,True
+STU00270,Matthew,student00270@university.edu,2025-04-17 22:05:01.602931,Computer Science,full_time,3.26,41,34,1,89.5,29,25,30,4,4,True,False
+STU00271,Evelyn,student00271@university.edu,2025-04-08 22:05:01.602933,Engineering,part_time,3.74,37,37,0,96.9,32,23,24,0,6,True,True
+STU00272,Jacob,student00272@university.edu,2025-12-10 22:05:01.602935,Business,full_time,2.1,38,24,5,62.6,7,12,24,6,2,True,True
+STU00273,Olivia,student00273@university.edu,2025-08-18 22:05:01.602936,Liberal Arts,part_time,3.54,41,37,1,96.6,35,27,30,3,5,False,False
+STU00274,Evelyn,student00274@university.edu,2024-12-06 22:05:01.602938,Engineering,full_time,3.5,58,52,1,86.7,30,23,26,3,4,True,False
+STU00275,Alexander,student00275@university.edu,2025-10-11 22:05:01.602940,Liberal Arts,full_time,3.48,15,15,1,97.3,31,18,20,0,5,False,False
+STU00276,Sebastian,student00276@university.edu,2025-07-22 22:05:01.602941,Liberal Arts,full_time,3.39,65,57,1,87.1,29,20,23,1,5,False,False
+STU00277,Sophia,student00277@university.edu,2025-05-05 22:05:01.602943,Business,full_time,2.91,61,51,2,80.1,25,23,30,7,3,True,False
+STU00278,Jack,student00278@university.edu,2025-04-20 22:05:01.602944,Nursing,full_time,3.08,66,60,1,93.6,28,20,24,2,4,True,False
+STU00279,Grace,student00279@university.edu,2025-06-21 22:05:01.602946,Computer Science,full_time,3.5,66,56,1,92.9,28,24,27,2,5,True,False
+STU00280,Madison,student00280@university.edu,2025-03-08 22:05:01.602948,Nursing,part_time,3.52,45,40,1,90.4,30,28,31,3,5,True,False
+STU00281,David,student00281@university.edu,2025-10-13 22:05:01.602949,Engineering,full_time,2.66,42,35,2,79.6,23,26,34,6,3,False,True
+STU00282,Aria,student00282@university.edu,2025-05-12 22:05:01.602951,Nursing,full_time,2.99,100,86,2,88.0,28,27,31,5,4,False,False
+STU00283,Henry,student00283@university.edu,2024-01-26 22:05:01.602952,Engineering,full_time,2.98,46,39,2,86.8,26,21,27,5,4,True,False
+STU00284,David,student00284@university.edu,2024-09-10 22:05:01.602954,Engineering,full_time,3.4,57,47,2,85.0,25,16,20,3,4,True,False
+STU00285,Emma,student00285@university.edu,2024-04-14 22:05:01.602956,Computer Science,full_time,3.51,65,58,1,97.6,28,22,24,2,5,True,False
+STU00286,Mia,student00286@university.edu,2025-09-01 22:05:01.602957,Business,full_time,3.29,39,34,1,85.6,34,25,29,2,4,True,False
+STU00287,Logan,student00287@university.edu,2025-09-07 22:05:01.602959,Computer Science,full_time,3.04,85,70,3,79.0,22,15,20,3,3,True,True
+STU00288,Elizabeth,student00288@university.edu,2024-07-22 22:05:01.602961,Nursing,full_time,3.55,69,63,1,87.8,31,16,20,1,5,True,False
+STU00289,John,student00289@university.edu,2024-11-25 22:05:01.602962,Engineering,full_time,3.72,98,91,1,90.9,32,18,21,0,5,True,False
+STU00290,Emily,student00290@university.edu,2024-11-05 22:05:01.602964,Liberal Arts,part_time,2.17,63,46,5,61.2,11,11,21,4,2,False,True
+STU00291,Ella,student00291@university.edu,2024-07-15 22:05:01.602965,Liberal Arts,part_time,3.28,86,78,2,82.5,25,27,34,5,4,False,False
+STU00292,Jackson,student00292@university.edu,2024-08-26 22:05:01.602967,Engineering,full_time,3.62,60,52,1,97.2,25,30,34,0,5,True,False
+STU00293,Joseph,student00293@university.edu,2024-03-10 22:05:01.602969,Computer Science,full_time,3.4,48,43,1,95.5,28,26,28,1,5,True,False
+STU00294,Scarlett,student00294@university.edu,2024-10-04 22:05:01.602970,Business,full_time,2.88,59,54,2,85.4,26,18,23,2,4,True,False
+STU00295,Sophia,student00295@university.edu,2025-11-22 22:05:01.602972,Computer Science,full_time,3.59,64,60,1,94.0,27,20,22,0,6,True,False
+STU00296,Lucas,student00296@university.edu,2024-05-29 22:05:01.602973,Engineering,full_time,3.52,55,52,1,86.9,29,26,30,2,5,True,True
+STU00297,Jacob,student00297@university.edu,2024-02-07 22:05:01.602975,Engineering,full_time,2.98,63,52,2,84.6,25,15,20,2,3,True,False
+STU00298,Wyatt,student00298@university.edu,2024-09-13 22:05:01.602977,Business,part_time,3.31,80,71,2,89.3,30,28,31,1,4,False,False
+STU00299,Jack,student00299@university.edu,2025-09-23 22:05:01.602978,Nursing,full_time,3.22,52,48,1,89.2,30,19,21,1,5,True,False
+STU00300,Riley,student00300@university.edu,2025-07-23 22:05:01.602980,Nursing,full_time,2.27,87,62,4,70.0,17,15,25,5,3,True,True
+STU00301,Liam,student00301@university.edu,2025-09-21 22:05:01.602982,Business,full_time,3.26,84,75,2,89.7,30,24,28,2,5,False,False
+STU00302,Emma,student00302@university.edu,2025-09-28 22:05:01.602983,Nursing,full_time,3.48,72,68,1,89.5,31,22,24,3,4,False,False
+STU00303,Wyatt,student00303@university.edu,2024-09-14 22:05:01.602985,Liberal Arts,full_time,3.65,100,98,0,94.1,34,21,23,1,5,True,False
+STU00304,James,student00304@university.edu,2025-12-14 22:05:01.602986,Nursing,full_time,3.14,42,36,1,82.1,26,25,32,2,4,False,False
+STU00305,Ava,student00305@university.edu,2025-10-25 22:05:01.602988,Nursing,full_time,3.78,50,50,1,95.8,33,22,24,2,5,True,False
+STU00306,Victoria,student00306@university.edu,2024-01-30 22:05:01.602990,Nursing,full_time,3.21,44,39,1,91.4,25,22,28,3,3,True,False
+STU00307,Sebastian,student00307@university.edu,2024-09-25 22:05:01.602991,Liberal Arts,full_time,3.79,62,58,0,93.1,36,29,31,0,6,False,False
+STU00308,Isabella,student00308@university.edu,2024-09-22 22:05:01.602993,Nursing,full_time,2.19,57,40,5,63.7,11,17,32,7,1,True,False
+STU00309,Grace,student00309@university.edu,2024-08-14 22:05:01.602995,Liberal Arts,full_time,2.11,78,54,4,62.9,12,16,26,7,2,False,True
+STU00310,Scarlett,student00310@university.edu,2025-11-11 22:05:01.602996,Business,full_time,3.45,65,59,1,89.5,32,24,27,4,5,True,False
+STU00311,Evelyn,student00311@university.edu,2025-01-01 22:05:01.602998,Computer Science,full_time,3.57,80,69,0,94.4,30,30,34,0,5,True,False
+STU00312,Wyatt,student00312@university.edu,2025-09-11 22:05:01.603000,Business,part_time,2.52,28,20,3,73.7,17,16,23,3,3,False,False
+STU00313,Lucas,student00313@university.edu,2025-10-04 22:05:01.603001,Computer Science,full_time,3.23,101,93,1,86.5,26,24,30,4,4,True,False
+STU00314,Olivia,student00314@university.edu,2024-06-12 22:05:01.603003,Business,part_time,3.72,88,88,0,97.1,32,26,27,1,5,False,False
+STU00315,Alexander,student00315@university.edu,2025-07-14 22:05:01.603004,Computer Science,part_time,2.49,81,54,5,60.7,4,15,25,7,2,True,True
+STU00316,Daniel,student00316@university.edu,2025-04-09 22:05:01.603006,Computer Science,full_time,3.19,38,30,2,87.9,24,19,24,3,5,False,True
+STU00317,Madison,student00317@university.edu,2024-02-10 22:05:01.603008,Engineering,full_time,2.55,70,48,4,68.6,2,19,32,6,3,False,True
+STU00318,Daniel,student00318@university.edu,2024-10-03 22:05:01.603009,Computer Science,part_time,3.64,90,79,1,88.0,32,29,31,0,5,True,False
+STU00319,Jack,student00319@university.edu,2025-08-19 22:05:01.603011,Computer Science,full_time,3.02,44,36,1,82.9,25,22,26,3,3,False,False
+STU00320,Mia,student00320@university.edu,2025-02-12 22:05:01.603012,Engineering,full_time,3.1,25,23,1,79.0,29,22,25,4,5,False,False
+STU00321,Riley,student00321@university.edu,2025-03-22 22:05:01.603014,Nursing,part_time,1.92,57,39,6,59.0,6,12,22,6,1,False,True
+STU00322,Mason,student00322@university.edu,2025-10-22 22:05:01.603016,Nursing,full_time,3.76,44,39,1,97.3,32,21,24,1,5,True,False
+STU00323,Matthew,student00323@university.edu,2025-04-23 22:05:01.603017,Engineering,full_time,1.83,78,47,5,53.8,8,15,28,7,1,False,True
+STU00324,Samuel,student00324@university.edu,2024-11-21 22:05:01.603019,Liberal Arts,full_time,3.65,87,79,0,96.4,32,24,26,1,5,True,False
+STU00325,David,student00325@university.edu,2024-11-09 22:05:01.603020,Computer Science,part_time,3.54,90,84,1,94.9,32,29,31,0,5,True,False
+STU00326,Alexander,student00326@university.edu,2024-03-31 22:05:01.603022,Computer Science,full_time,2.84,69,61,2,80.2,25,19,23,5,4,False,False
+STU00327,Scarlett,student00327@university.edu,2025-02-15 22:05:01.603024,Engineering,full_time,3.17,37,34,1,92.7,27,22,26,1,5,True,False
+STU00328,Wyatt,student00328@university.edu,2025-05-22 22:05:01.603025,Engineering,part_time,3.32,54,51,1,92.4,33,21,24,0,4,True,False
+STU00329,Elizabeth,student00329@university.edu,2025-04-30 22:05:01.603027,Liberal Arts,full_time,3.21,92,82,1,95.3,31,24,30,1,4,True,False
+STU00330,Scarlett,student00330@university.edu,2024-05-16 22:05:01.603029,Nursing,full_time,1.95,66,45,5,56.8,0,18,32,8,2,False,True
+STU00331,Elizabeth,student00331@university.edu,2025-10-01 22:05:01.603030,Business,full_time,2.47,54,39,4,67.7,18,22,34,8,2,False,True
+STU00332,Avery,student00332@university.edu,2024-10-06 22:05:01.603032,Nursing,full_time,3.46,43,40,1,92.0,30,18,21,2,5,True,False
+STU00333,Henry,student00333@university.edu,2025-09-03 22:05:01.603033,Computer Science,full_time,3.82,62,60,0,97.4,38,31,32,1,5,True,False
+STU00334,Owen,student00334@university.edu,2024-10-19 22:05:01.603035,Engineering,full_time,2.68,56,43,3,76.9,18,18,25,4,2,True,False
+STU00335,Henry,student00335@university.edu,2025-02-12 22:05:01.603036,Liberal Arts,full_time,3.62,54,50,1,100.0,32,24,26,2,5,True,False
+STU00336,Liam,student00336@university.edu,2025-09-08 22:05:01.603038,Nursing,part_time,3.47,30,27,0,95.7,33,25,27,0,5,True,False
+STU00337,Scarlett,student00337@university.edu,2025-01-14 22:05:01.603040,Liberal Arts,full_time,2.39,27,18,5,66.1,12,15,25,5,1,False,True
+STU00338,Lucas,student00338@university.edu,2024-10-06 22:05:01.603041,Nursing,full_time,2.89,54,44,2,80.3,25,21,27,4,4,False,True
+STU00339,Grace,student00339@university.edu,2024-09-24 22:05:01.603043,Computer Science,full_time,3.45,30,27,1,86.5,34,23,26,0,5,True,False
+STU00340,Matthew,student00340@university.edu,2025-02-10 22:05:01.603045,Business,part_time,3.11,77,65,2,87.4,24,16,21,3,4,False,False
+STU00341,Madison,student00341@university.edu,2025-04-10 22:05:01.603046,Liberal Arts,full_time,2.24,48,31,5,62.0,1,19,33,10,2,False,True
+STU00342,Noah,student00342@university.edu,2025-07-02 22:05:01.603048,Liberal Arts,full_time,2.65,74,52,4,78.0,14,16,25,5,3,True,False
+STU00343,Madison,student00343@university.edu,2024-08-21 22:05:01.603050,Business,full_time,2.03,45,27,5,62.0,12,15,28,7,1,True,True
+STU00344,Benjamin,student00344@university.edu,2025-01-14 22:05:01.603051,Liberal Arts,full_time,3.99,66,64,0,98.5,33,29,31,0,5,True,False
+STU00345,Abigail,student00345@university.edu,2024-06-21 22:05:01.603053,Liberal Arts,full_time,1.69,65,42,5,58.6,3,12,25,6,1,True,True
+STU00346,Wyatt,student00346@university.edu,2025-08-31 22:05:01.603054,Nursing,full_time,2.26,72,48,5,64.1,10,14,23,6,1,False,True
+STU00347,Alexander,student00347@university.edu,2024-05-31 22:05:01.603056,Nursing,full_time,3.19,37,31,2,80.4,26,21,26,2,3,False,False
+STU00348,Mason,student00348@university.edu,2025-09-25 22:05:01.603058,Business,part_time,1.34,79,45,6,49.8,7,10,22,5,1,False,True
+STU00349,Sophia,student00349@university.edu,2025-08-04 22:05:01.603059,Computer Science,full_time,3.28,36,31,2,86.4,27,21,24,4,4,True,False
+STU00350,Olivia,student00350@university.edu,2025-07-30 22:05:01.603061,Liberal Arts,full_time,2.79,52,42,2,75.4,18,14,20,2,3,True,False
+STU00351,Harper,student00351@university.edu,2025-06-14 22:05:01.603062,Computer Science,full_time,3.43,71,68,1,90.1,29,30,34,0,4,False,False
+STU00352,Madison,student00352@university.edu,2024-11-09 22:05:01.603064,Business,part_time,2.9,79,69,2,79.1,23,22,29,3,3,True,False
+STU00353,Wyatt,student00353@university.edu,2025-01-19 22:05:01.603066,Business,full_time,3.66,47,43,1,86.5,30,18,22,2,4,True,False
+STU00354,James,student00354@university.edu,2024-07-25 22:05:01.603067,Nursing,part_time,3.51,42,39,1,94.8,31,24,27,3,6,True,False
+STU00355,Layla,student00355@university.edu,2025-10-07 22:05:01.603069,Liberal Arts,part_time,3.16,50,43,2,86.7,23,22,28,4,4,True,False
+STU00356,Michael,student00356@university.edu,2024-06-17 22:05:01.603071,Engineering,full_time,2.86,82,69,2,83.4,24,23,28,2,4,True,False
+STU00357,Michael,student00357@university.edu,2025-10-23 22:05:01.603072,Business,full_time,3.5,78,72,0,95.5,31,33,34,0,5,True,False
+STU00358,Owen,student00358@university.edu,2024-09-21 22:05:01.603074,Liberal Arts,full_time,2.84,77,64,2,77.8,19,22,29,3,4,True,False
+STU00359,Jackson,student00359@university.edu,2025-05-24 22:05:01.603076,Computer Science,full_time,3.95,37,36,0,95.5,34,21,21,0,5,False,False
+STU00360,Samuel,student00360@university.edu,2025-08-11 22:05:01.603077,Nursing,full_time,2.08,53,35,5,62.2,11,12,23,5,1,False,True
+STU00361,Samuel,student00361@university.edu,2025-11-02 22:05:01.603079,Computer Science,full_time,3.24,86,77,1,85.4,28,20,24,1,4,True,False
+STU00362,Camila,student00362@university.edu,2025-08-26 22:05:01.603081,Business,part_time,3.58,52,51,1,92.1,31,32,34,1,4,True,False
+STU00363,Layla,student00363@university.edu,2024-02-21 22:05:01.603082,Business,full_time,2.0,94,58,5,58.1,3,13,22,6,1,False,True
+STU00364,Mason,student00364@university.edu,2025-06-15 22:05:01.603084,Computer Science,part_time,3.54,83,78,1,87.0,30,31,32,1,5,True,False
+STU00365,Sofia,student00365@university.edu,2025-09-11 22:05:01.603086,Business,full_time,3.42,52,46,1,91.7,30,26,30,2,4,True,False
+STU00366,Sofia,student00366@university.edu,2024-12-06 22:05:01.603087,Liberal Arts,full_time,3.24,71,61,2,88.4,29,17,20,4,4,False,False
+STU00367,Aiden,student00367@university.edu,2024-07-13 22:05:01.603089,Business,part_time,2.48,52,36,4,68.2,13,16,25,7,2,False,True
+STU00368,Abigail,student00368@university.edu,2024-12-20 22:05:01.603091,Nursing,full_time,2.87,86,71,3,73.1,20,26,33,4,3,True,False
+STU00369,Jackson,student00369@university.edu,2024-01-19 22:05:01.603092,Liberal Arts,full_time,2.67,39,29,4,64.4,21,23,34,8,3,True,True
+STU00370,Madison,student00370@university.edu,2025-03-09 22:05:01.603094,Engineering,full_time,3.56,31,29,1,96.8,30,26,29,6,4,True,False
+STU00371,Logan,student00371@university.edu,2025-06-03 22:05:01.603095,Business,full_time,1.71,46,28,5,56.7,7,10,21,5,1,True,True
+STU00372,Penelope,student00372@university.edu,2025-06-03 22:05:01.603097,Business,full_time,2.78,98,77,3,75.6,20,20,28,5,2,True,False
+STU00373,Madison,student00373@university.edu,2024-02-17 22:05:01.603099,Nursing,full_time,2.16,24,15,4,59.5,12,11,20,6,1,True,True
+STU00374,Ava,student00374@university.edu,2025-09-13 22:05:01.603100,Nursing,full_time,3.71,75,73,1,90.1,31,29,30,1,5,True,False
+STU00375,Wyatt,student00375@university.edu,2024-02-12 22:05:01.603102,Computer Science,part_time,1.96,30,17,5,63.3,12,16,28,8,1,True,True
+STU00376,Evelyn,student00376@university.edu,2025-10-15 22:05:01.603104,Computer Science,full_time,3.06,46,40,2,90.8,25,21,26,3,4,False,False
+STU00377,Noah,student00377@university.edu,2024-03-21 22:05:01.603105,Computer Science,part_time,3.7,53,53,0,92.8,31,27,30,1,5,True,False
+STU00378,Scarlett,student00378@university.edu,2025-10-25 22:05:01.603107,Nursing,full_time,3.05,36,31,1,92.4,26,26,32,4,5,True,False
+STU00379,Riley,student00379@university.edu,2024-11-07 22:05:01.603108,Computer Science,full_time,3.0,67,53,3,77.4,21,21,29,6,2,False,True
+STU00380,Harper,student00380@university.edu,2025-12-10 22:05:01.603110,Computer Science,full_time,1.76,59,37,5,64.5,8,11,21,5,1,True,True
+STU00381,Carter,student00381@university.edu,2024-09-05 22:05:01.603112,Engineering,full_time,2.76,33,25,4,73.2,20,21,33,6,3,False,True
+STU00382,Logan,student00382@university.edu,2024-04-20 22:05:01.603113,Computer Science,part_time,3.14,59,50,2,86.3,25,20,25,1,4,True,False
+STU00383,Jackson,student00383@university.edu,2024-02-02 22:05:01.603115,Business,full_time,3.37,91,87,1,98.1,31,24,27,1,5,False,False
+STU00384,Avery,student00384@university.edu,2024-06-29 22:05:01.603116,Nursing,full_time,3.18,42,35,2,87.1,27,26,34,5,4,True,False
+STU00385,Owen,student00385@university.edu,2024-11-05 22:05:01.603118,Liberal Arts,full_time,3.52,41,41,0,96.3,33,20,21,1,6,True,False
+STU00386,Lillian,student00386@university.edu,2024-07-20 22:05:01.603120,Engineering,full_time,3.3,52,48,2,81.9,29,29,34,2,4,True,False
+STU00387,Ethan,student00387@university.edu,2024-03-10 22:05:01.603121,Nursing,part_time,3.37,91,82,1,86.5,29,21,24,0,4,False,False
+STU00388,Scarlett,student00388@university.edu,2025-04-26 22:05:01.603123,Nursing,part_time,3.58,52,47,1,91.9,31,28,32,2,4,False,False
+STU00389,Grace,student00389@university.edu,2024-07-09 22:05:01.603125,Business,full_time,3.7,29,27,0,99.9,34,30,31,2,5,False,False
+STU00390,Victoria,student00390@university.edu,2025-01-03 22:05:01.603126,Computer Science,full_time,3.18,81,72,1,89.3,30,25,30,2,5,True,False
+STU00391,Daniel,student00391@university.edu,2025-10-30 22:05:01.603128,Business,full_time,3.52,49,44,1,92.3,28,22,25,0,5,False,False
+STU00392,Avery,student00392@university.edu,2024-06-17 22:05:01.603129,Computer Science,full_time,3.63,82,73,1,86.8,32,20,22,0,5,True,False
+STU00393,Riley,student00393@university.edu,2025-09-28 22:05:01.603131,Computer Science,part_time,2.37,52,37,4,62.5,4,20,33,9,2,False,True
+STU00394,Owen,student00394@university.edu,2025-10-03 22:05:01.603133,Nursing,full_time,3.32,50,46,2,88.8,27,25,31,4,5,True,False
+STU00395,Lillian,student00395@university.edu,2025-04-10 22:05:01.603134,Computer Science,full_time,3.37,83,79,0,89.9,30,20,21,1,4,True,False
+STU00396,Ella,student00396@university.edu,2025-10-29 22:05:01.603136,Engineering,full_time,3.77,68,64,0,91.3,31,31,34,3,6,False,False
+STU00397,Scarlett,student00397@university.edu,2025-08-16 22:05:01.603137,Engineering,part_time,3.62,53,52,1,91.9,28,27,30,3,5,True,False
+STU00398,Madison,student00398@university.edu,2025-05-15 22:05:01.603139,Engineering,full_time,2.5,42,29,3,71.8,4,17,25,5,3,True,False
+STU00399,Jack,student00399@university.edu,2025-04-20 22:05:01.603141,Nursing,full_time,1.96,60,39,5,61.4,6,10,22,5,1,True,True
+STU00400,Abigail,student00400@university.edu,2025-10-20 22:05:01.603142,Business,full_time,3.17,69,57,2,87.7,26,16,21,2,4,False,True
+STU00401,Sebastian,student00401@university.edu,2024-12-30 22:05:01.603144,Liberal Arts,full_time,3.54,18,16,1,91.7,29,31,34,0,5,True,False
+STU00402,Emily,student00402@university.edu,2025-08-30 22:05:01.603146,Computer Science,part_time,2.08,42,27,5,63.5,2,10,20,5,1,False,True
+STU00403,Madison,student00403@university.edu,2025-10-28 22:05:01.603148,Liberal Arts,full_time,2.32,84,60,4,69.1,12,19,33,7,2,True,True
+STU00404,Olivia,student00404@university.edu,2024-05-21 22:05:01.603149,Business,full_time,3.32,67,56,2,86.4,26,24,27,1,5,True,False
+STU00405,Henry,student00405@university.edu,2025-01-12 22:05:01.603151,Business,full_time,3.61,70,68,0,97.0,32,18,20,0,5,True,False
+STU00406,Elizabeth,student00406@university.edu,2025-11-19 22:05:01.603153,Nursing,full_time,3.7,39,37,1,92.9,30,30,31,0,5,True,False
+STU00407,Joseph,student00407@university.edu,2025-04-02 22:05:01.603154,Engineering,full_time,2.33,79,53,4,62.9,16,20,34,7,2,False,True
+STU00408,Ella,student00408@university.edu,2025-12-07 22:05:01.603156,Engineering,full_time,3.43,38,34,1,98.0,29,22,24,0,6,False,False
+STU00409,Olivia,student00409@university.edu,2024-03-30 22:05:01.603158,Business,full_time,1.99,82,54,4,58.9,4,18,30,7,2,False,True
+STU00410,David,student00410@university.edu,2025-04-06 22:05:01.603159,Nursing,full_time,3.45,95,88,1,95.8,33,22,25,1,5,True,False
+STU00411,Owen,student00411@university.edu,2024-01-23 22:05:01.603161,Nursing,full_time,3.55,17,15,1,94.3,32,27,30,1,5,True,False
+STU00412,Daniel,student00412@university.edu,2025-02-15 22:05:01.603162,Computer Science,part_time,3.84,35,33,0,93.6,33,29,31,1,5,True,False
+STU00413,John,student00413@university.edu,2024-03-16 22:05:01.603164,Engineering,full_time,3.42,55,47,1,88.7,29,27,31,2,5,True,False
+STU00414,Sebastian,student00414@university.edu,2025-10-20 22:05:01.603166,Business,full_time,3.23,36,32,2,80.6,23,18,22,4,4,True,False
+STU00415,Penelope,student00415@university.edu,2024-07-07 22:05:01.603167,Liberal Arts,full_time,2.63,70,54,3,77.9,15,24,33,5,3,True,False
+STU00416,Michael,student00416@university.edu,2024-08-28 22:05:01.603169,Engineering,full_time,3.63,33,32,1,98.4,31,24,26,1,5,True,False
+STU00417,Emily,student00417@university.edu,2025-11-17 22:05:01.603171,Computer Science,full_time,1.77,37,24,5,60.9,1,10,21,5,2,False,True
+STU00418,Liam,student00418@university.edu,2025-09-28 22:05:01.603172,Nursing,part_time,3.36,79,69,1,88.9,25,21,26,2,4,True,False
+STU00419,Sofia,student00419@university.edu,2025-05-13 22:05:01.603175,Business,full_time,3.15,49,42,2,84.3,25,16,21,2,4,True,False
+STU00420,Joseph,student00420@university.edu,2024-11-24 22:05:01.603177,Engineering,full_time,1.99,71,48,4,71.9,15,15,24,5,2,False,True
+STU00421,Liam,student00421@university.edu,2024-12-15 22:05:01.603179,Liberal Arts,full_time,2.42,71,50,4,72.7,15,17,26,6,3,True,True
+STU00422,Jacob,student00422@university.edu,2024-02-18 22:05:01.603180,Computer Science,full_time,2.14,54,34,5,61.7,13,17,30,9,1,False,True
+STU00423,Harper,student00423@university.edu,2024-07-07 22:05:01.603182,Computer Science,full_time,1.94,53,32,5,62.9,10,18,30,9,1,False,True
+STU00424,David,student00424@university.edu,2024-01-16 22:05:01.603184,Engineering,full_time,3.42,38,36,1,91.5,29,30,33,4,5,True,False
+STU00425,Madison,student00425@university.edu,2025-02-06 22:05:01.603185,Liberal Arts,full_time,3.56,73,71,1,96.1,32,21,22,0,6,False,False
+STU00426,Isabella,student00426@university.edu,2025-12-08 22:05:01.603187,Computer Science,full_time,2.03,81,53,5,55.7,4,17,33,8,1,False,True
+STU00427,Chloe,student00427@university.edu,2025-12-12 22:05:01.603189,Business,part_time,3.3,49,41,1,90.2,26,24,30,5,5,False,False
+STU00428,Wyatt,student00428@university.edu,2024-04-01 22:05:01.603190,Computer Science,part_time,3.26,62,55,1,92.4,29,20,23,1,5,True,False
+STU00429,Aria,student00429@university.edu,2024-12-17 22:05:01.603192,Liberal Arts,full_time,2.35,83,57,4,69.2,14,13,20,5,2,True,True
+STU00430,Avery,student00430@university.edu,2024-07-25 22:05:01.603194,Nursing,full_time,3.75,55,52,0,99.9,31,20,22,0,6,False,False
+STU00431,Joseph,student00431@university.edu,2025-03-16 22:05:01.603195,Nursing,part_time,2.59,84,66,3,84.3,22,22,28,5,3,True,True
+STU00432,Jacob,student00432@university.edu,2024-07-27 22:05:01.603197,Engineering,full_time,3.64,71,66,1,91.5,30,27,29,2,5,True,False
+STU00433,Scarlett,student00433@university.edu,2025-11-30 22:05:01.603198,Liberal Arts,full_time,3.91,80,74,1,94.3,32,23,24,0,5,True,False
+STU00434,John,student00434@university.edu,2025-06-06 22:05:01.603200,Computer Science,part_time,3.51,24,22,0,94.2,32,30,34,0,5,True,False
+STU00435,Elizabeth,student00435@university.edu,2024-03-24 22:05:01.603202,Computer Science,part_time,3.17,66,56,2,84.2,27,27,34,4,4,True,False
+STU00436,Daniel,student00436@university.edu,2024-08-17 22:05:01.603203,Nursing,full_time,2.17,50,34,4,65.2,15,16,27,7,2,False,True
+STU00437,Charlotte,student00437@university.edu,2025-11-17 22:05:01.603205,Nursing,full_time,3.47,51,47,1,86.8,32,17,21,0,5,True,False
+STU00438,Sophia,student00438@university.edu,2025-11-06 22:05:01.603206,Business,full_time,2.84,72,57,3,74.9,19,16,22,4,4,True,True
+STU00439,Matthew,student00439@university.edu,2025-03-17 22:05:01.603208,Nursing,full_time,2.1,62,45,4,71.8,13,16,26,5,2,False,True
+STU00440,Camila,student00440@university.edu,2025-04-28 22:05:01.603210,Business,full_time,2.45,54,38,4,69.5,1,20,33,7,1,False,True
+STU00441,Alexander,student00441@university.edu,2025-09-20 22:05:01.603211,Computer Science,full_time,1.8,44,26,4,58.9,10,15,29,8,1,False,True
+STU00442,Emma,student00442@university.edu,2024-08-28 22:05:01.603213,Business,full_time,2.29,70,49,5,62.9,11,11,23,5,2,True,True
+STU00443,Mason,student00443@university.edu,2025-08-11 22:05:01.603215,Business,full_time,3.13,80,72,3,88.1,23,22,28,3,3,True,True
+STU00444,Owen,student00444@university.edu,2024-06-26 22:05:01.603216,Engineering,full_time,3.09,59,52,1,82.9,25,28,33,5,3,False,False
+STU00445,Lucas,student00445@university.edu,2025-07-23 22:05:01.603218,Nursing,full_time,3.92,34,33,0,97.6,32,24,26,0,6,True,False
+STU00446,Benjamin,student00446@university.edu,2024-07-08 22:05:01.603220,Business,full_time,3.39,29,26,1,85.5,24,29,33,3,5,True,False
+STU00447,James,student00447@university.edu,2025-05-17 22:05:01.603221,Computer Science,full_time,3.31,70,61,1,88.3,26,26,30,4,5,True,False
+STU00448,Layla,student00448@university.edu,2025-11-20 22:05:01.603223,Liberal Arts,part_time,3.36,87,83,1,93.0,32,27,31,3,5,True,False
+STU00449,Emily,student00449@university.edu,2024-05-14 22:05:01.603224,Business,full_time,3.25,66,61,1,89.2,34,18,20,3,4,False,False
+STU00450,Amelia,student00450@university.edu,2024-11-16 22:05:01.603226,Nursing,part_time,3.8,60,60,0,95.5,36,23,23,0,5,True,False
+STU00451,Logan,student00451@university.edu,2025-10-09 22:05:01.603228,Engineering,part_time,2.99,51,44,1,88.9,29,25,29,4,5,True,False
+STU00452,Aiden,student00452@university.edu,2025-04-26 22:05:01.603229,Computer Science,full_time,3.67,47,45,0,99.5,32,28,30,0,5,False,False
+STU00453,Liam,student00453@university.edu,2025-08-28 22:05:01.603231,Engineering,full_time,3.45,57,50,2,86.1,27,23,25,2,4,True,False
+STU00454,Sebastian,student00454@university.edu,2025-07-22 22:05:01.603232,Liberal Arts,part_time,3.44,79,71,1,93.2,27,23,25,1,5,False,False
+STU00455,Emily,student00455@university.edu,2025-08-26 22:05:01.603234,Business,full_time,2.15,81,55,5,65.4,10,16,29,9,1,True,True
+STU00456,Michael,student00456@university.edu,2025-05-01 22:05:01.603236,Business,full_time,3.06,78,65,2,87.0,27,20,25,2,5,True,False
+STU00457,Layla,student00457@university.edu,2025-08-26 22:05:01.603237,Nursing,full_time,3.47,35,31,1,95.7,29,22,24,1,4,True,True
+STU00458,Elizabeth,student00458@university.edu,2024-09-01 22:05:01.603239,Business,full_time,3.28,49,45,2,85.1,28,18,22,3,4,True,False
+STU00459,Michael,student00459@university.edu,2025-11-11 22:05:01.603241,Computer Science,part_time,1.58,65,37,6,56.8,2,10,21,5,1,True,True
+STU00460,Michael,student00460@university.edu,2024-04-01 22:05:01.603242,Liberal Arts,part_time,3.77,76,72,1,88.7,30,20,22,3,6,True,False
+STU00461,Riley,student00461@university.edu,2024-12-11 22:05:01.603244,Engineering,part_time,3.28,55,46,1,84.5,26,24,28,3,4,False,False
+STU00462,Jack,student00462@university.edu,2024-04-29 22:05:01.603245,Liberal Arts,full_time,3.58,94,88,1,91.5,31,18,22,2,4,False,False
+STU00463,Joseph,student00463@university.edu,2024-06-09 22:05:01.603247,Business,full_time,2.96,35,27,2,81.4,23,18,22,2,3,True,False
+STU00464,Ethan,student00464@university.edu,2024-10-16 22:05:01.603249,Engineering,full_time,1.46,83,47,5,53.5,5,10,20,6,1,False,True
+STU00465,Amelia,student00465@university.edu,2024-04-11 22:05:01.603250,Nursing,full_time,1.73,69,45,6,56.0,9,12,21,5,1,True,True
+STU00466,Chloe,student00466@university.edu,2024-07-15 22:05:01.603252,Liberal Arts,full_time,3.21,68,59,1,87.9,26,25,30,4,3,True,False
+STU00467,Victoria,student00467@university.edu,2024-01-23 22:05:01.603253,Engineering,full_time,2.3,68,48,5,59.7,0,17,31,7,2,True,False
+STU00468,Madison,student00468@university.edu,2025-03-08 22:05:01.603255,Engineering,full_time,2.95,29,21,2,78.3,19,15,22,3,4,False,True
+STU00469,Mason,student00469@university.edu,2025-01-29 22:05:01.603257,Engineering,full_time,3.55,53,48,1,93.9,28,20,21,0,5,True,False
+STU00470,Lillian,student00470@university.edu,2024-09-28 22:05:01.603258,Computer Science,full_time,1.8,64,40,5,56.4,7,15,27,7,1,False,True
+STU00471,Carter,student00471@university.edu,2025-02-03 22:05:01.603260,Liberal Arts,full_time,3.76,81,75,1,96.8,35,22,25,0,5,False,True
+STU00472,Carter,student00472@university.edu,2024-12-03 22:05:01.603262,Engineering,full_time,3.33,78,72,1,98.8,29,23,26,1,5,True,False
+STU00473,Ava,student00473@university.edu,2025-03-01 22:05:01.603263,Liberal Arts,full_time,3.2,44,39,1,88.1,25,17,20,3,3,False,False
+STU00474,Aria,student00474@university.edu,2024-10-04 22:05:01.603265,Engineering,full_time,1.64,53,31,5,54.2,0,13,25,7,1,False,True
+STU00475,Noah,student00475@university.edu,2024-02-22 22:05:01.603266,Nursing,part_time,3.41,58,58,0,98.5,33,19,21,0,5,False,False
+STU00476,Ethan,student00476@university.edu,2025-03-13 22:05:01.603268,Nursing,part_time,2.38,62,41,4,60.7,4,21,32,8,2,False,True
+STU00477,Camila,student00477@university.edu,2024-05-12 22:05:01.603270,Nursing,part_time,2.12,41,29,5,60.1,12,19,34,7,2,False,True
+STU00478,Sebastian,student00478@university.edu,2024-07-30 22:05:01.603271,Business,full_time,3.25,45,40,1,86.4,25,21,25,4,4,False,True
+STU00479,Jack,student00479@university.edu,2024-03-31 22:05:01.603273,Engineering,full_time,2.23,34,21,4,64.5,4,14,22,6,1,False,True
+STU00480,Jackson,student00480@university.edu,2024-07-17 22:05:01.603275,Business,full_time,3.54,78,73,1,89.3,31,22,26,3,4,True,False
+STU00481,Penelope,student00481@university.edu,2024-12-30 22:05:01.603276,Liberal Arts,full_time,3.68,74,68,0,95.9,32,20,22,1,5,True,False
+STU00482,Scarlett,student00482@university.edu,2024-09-25 22:05:01.603278,Business,full_time,3.68,21,20,0,96.7,34,25,28,1,6,False,False
+STU00483,David,student00483@university.edu,2024-12-30 22:05:01.603279,Liberal Arts,part_time,3.24,40,34,2,80.3,28,18,22,4,4,False,False
+STU00484,Jack,student00484@university.edu,2024-04-17 22:05:01.603281,Liberal Arts,full_time,2.83,84,69,3,78.8,19,19,26,6,4,True,False
+STU00485,Lucas,student00485@university.edu,2024-02-20 22:05:01.603283,Liberal Arts,part_time,2.86,81,67,3,81.6,25,22,31,3,3,True,False
+STU00486,Charlotte,student00486@university.edu,2025-07-31 22:05:01.603284,Business,part_time,3.41,74,68,1,91.0,31,21,23,2,3,False,False
+STU00487,John,student00487@university.edu,2025-04-16 22:05:01.603286,Engineering,full_time,3.47,69,64,1,94.3,33,24,27,0,5,True,False
+STU00488,Joseph,student00488@university.edu,2024-06-20 22:05:01.603288,Business,full_time,3.67,69,67,0,96.2,32,30,33,2,5,False,False
+STU00489,Jackson,student00489@university.edu,2025-11-05 22:05:01.603289,Engineering,full_time,3.45,39,35,1,90.6,26,18,21,1,5,True,False
+STU00490,Evelyn,student00490@university.edu,2025-04-30 22:05:01.603291,Engineering,full_time,2.19,41,27,5,57.7,11,16,27,7,2,True,True
+STU00491,Harper,student00491@university.edu,2024-06-15 22:05:01.603292,Liberal Arts,full_time,3.42,56,49,1,92.3,29,24,28,2,4,False,False
+STU00492,Evelyn,student00492@university.edu,2025-05-06 22:05:01.603294,Business,full_time,3.4,57,54,0,93.5,30,29,32,0,6,False,False
+STU00493,Logan,student00493@university.edu,2025-12-09 22:05:01.603296,Engineering,full_time,3.81,48,48,0,96.6,32,26,27,0,5,True,False
+STU00494,Jacob,student00494@university.edu,2025-01-27 22:05:01.603297,Nursing,full_time,3.74,70,65,0,86.3,29,22,25,0,5,True,False
+STU00495,Victoria,student00495@university.edu,2024-09-03 22:05:01.603299,Engineering,full_time,2.67,39,31,3,80.2,19,20,29,4,3,False,True
+STU00496,Jacob,student00496@university.edu,2025-10-01 22:05:01.603301,Nursing,full_time,3.15,56,46,2,79.9,22,16,20,1,4,True,False
+STU00497,Lillian,student00497@university.edu,2025-12-11 22:05:01.603302,Business,full_time,1.78,32,18,6,65.0,4,12,26,5,2,True,True
+STU00498,Emily,student00498@university.edu,2024-03-09 22:05:01.603304,Business,full_time,3.75,43,43,1,100.0,33,18,20,0,5,True,False
+STU00499,Isabella,student00499@university.edu,2025-08-19 22:05:01.603305,Business,full_time,2.04,48,33,5,60.6,1,15,26,6,2,True,True
+STU00500,James,student00500@university.edu,2024-04-18 22:05:01.603307,Engineering,full_time,3.03,73,59,3,80.7,20,25,33,7,3,True,True
