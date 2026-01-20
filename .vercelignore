@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+# Node modules (will be installed during build)
+node_modules/
+frontend/node_modules/
+# Jupyter notebooks
+notebooks/
+*.ipynb
+# Large data files
+data/raw/
+data/processed/
+outputs/
+# Development files
+.git/
+.DS_Store
+*.pyc
+.env

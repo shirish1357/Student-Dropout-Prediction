@@ -48,3 +48,5 @@ models/*.joblib
 data/raw/
 data/processed/
 !data/sample_students.csv
+.vercel
+.env*.local

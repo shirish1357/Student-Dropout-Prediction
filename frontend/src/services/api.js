@@ -1,16 +1,13 @@
 import axios from 'axios';
-
-const API_BASE = 'http://localhost:8000/api';
-
+// Use environment variable, fallback to /api for production (relative URL)
+const API_BASE = import.meta.env.VITE_API_URL || '/api';
 export const predictDropout = async (studentData) => {
   const response = await axios.post(`${API_BASE}/predict`, studentData);
   return response.data;
 };
-
 export const predictBatch = async (file) => {
   const formData = new FormData();
   formData.append('file', file);
-
   const response = await axios.post(`${API_BASE}/predict/batch`, formData, {
     headers: {
       'Content-Type': 'multipart/form-data',
@@ -18,17 +15,14 @@ export const predictBatch = async (file) => {
   });
   return response.data;
 };
-
 export const checkHealth = async () => {
   const response = await axios.get(`${API_BASE}/health`);
   return response.data;
 };
-
 export const downloadSingleReport = async (studentData) => {
   const response = await axios.post(`${API_BASE}/report/single`, studentData, {
     responseType: 'blob',
   });
-
   // Create download link
   const blob = new Blob([response.data], { type: 'application/pdf' });
   const url = window.URL.createObjectURL(blob);
@@ -40,18 +34,15 @@ export const downloadSingleReport = async (studentData) => {
   document.body.removeChild(link);
   window.URL.revokeObjectURL(url);
 };
-
 export const downloadBatchReport = async (file) => {
   const formData = new FormData();
   formData.append('file', file);
-
   const response = await axios.post(`${API_BASE}/report/batch`, formData, {
     headers: {
       'Content-Type': 'multipart/form-data',
     },
     responseType: 'blob',
   });
-
   // Create download link
   const blob = new Blob([response.data], { type: 'application/pdf' });
   const url = window.URL.createObjectURL(blob);
