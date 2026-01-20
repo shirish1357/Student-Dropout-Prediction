@@ -1,22 +1,26 @@
-# Exclude ALL Python files - backend is on Railway
-*.py
-requirements.txt
-api/
-src/
-models/
-data/
-notebooks/
-outputs/
-venv/
-.venv/
+# Exclude Python backend files - backend is on Railway
+# Use specific paths to avoid excluding frontend/src/
+/api/
+/src/
+/models/
+/data/
+/notebooks/
+/outputs/
+/venv/
+/.venv/
 __pycache__/
+*.py
 *.pyc
-.env
+requirements.txt
 railway.json
+main.py
 
-# Node modules
+# Environment
+.env
+.env.local
+
+# Node modules (reinstalled during build)
 node_modules/
-frontend/node_modules/
 
 # Git
 .git/
